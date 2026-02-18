@@ -5,7 +5,13 @@ description = "Generate Test Cases and Automation with crewAI"
 authors = [{ name = "Your Name", email = "irwan.rosyadi12@gmail.com" }]
 requires-python = ">=3.10,<3.14"
 dependencies = [
-    "crewai[tools]==1.9.3"
+    "crewai[tools]==1.9.3",
+    "fastapi",
+    "LiteLLM",
+    "apscheduler",
+    "pydantic[email]",
+    "email_validator",
+    "fastapi_sso"
 ]
 
 [project.scripts]
