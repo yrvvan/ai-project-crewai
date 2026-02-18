@@ -27,7 +27,7 @@ This system:
 
 -   FastAPI -- REST interface
 -   CrewAI -- Agent orchestration framework
--   Groq / LLaMA 3.1 -- Text generation engine
+-   Groq / LLaMA 3.3 -- Text generation engine
 -   UV -- Dependency management
 
 ### High-Level Flow
