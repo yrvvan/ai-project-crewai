@@ -200,9 +200,3 @@ For real-world deployment:
 2.  Create feature branch
 3.  Submit pull request
 4.  Ensure linting and formatting pass
-
-------------------------------------------------------------------------
-
-## 📄 License
-
-Specify your license here (MIT, Apache 2.0, etc.)
